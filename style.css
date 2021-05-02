@@ -1,0 +1,51 @@
+/* As a way to initialize the the webpage  */
+* {
+  margin: 1;
+  padding: 1;
+  font-family: san-serif;
+  background-size: cover;
+}
+
+body {
+  background-color: #CAEFF5;
+}
+
+.container {
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+/* Center logo */
+.logo {
+  width: 800px;
+}
+
+/* headers for each  */
+h1 {
+  font-size: 45px;
+  background-color: #F46F6F;
+  font: bold;
+  font-family: "Copperplate";
+}
+
+p {
+  font-size: 25px;
+  line-height: 30px;
+  
+  /*
+  Works for me
+  */
+}
+
+p1 {
+  font-size: 40px;
+  line-height: 40px;
+  color: white;
+  font: bold;
+  font-family: "Lucida Console";
+}
+
+.logo{
+  margin-top: 10px;
+  width:999px;
+}
